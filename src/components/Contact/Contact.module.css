@@ -1,0 +1,23 @@
+.contactCard {
+    height: 45px;
+    width: 220px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    border-radius: 7px;
+    padding: 7px;
+}
+
+address{
+    font-style: normal;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.icon{
+    margin-right: 5px;
+}
